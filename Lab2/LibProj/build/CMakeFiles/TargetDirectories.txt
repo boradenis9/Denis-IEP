@@ -1,0 +1,7 @@
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/install/strip.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/install/local.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/install.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/list_install_components.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/rebuild_cache.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/edit_cache.dir
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/LibProj/build/CMakeFiles/static_lib.dir

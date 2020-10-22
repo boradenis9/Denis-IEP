@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/ExecProj/header.h
+iostream
+-
+
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/ExecProj/main.cpp
+header.h
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/ExecProj/header.h
+

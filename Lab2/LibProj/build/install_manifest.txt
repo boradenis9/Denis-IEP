@@ -1,0 +1,2 @@
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/ExecProj/libstatic_lib.a
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab2/ExecProj/header.h
