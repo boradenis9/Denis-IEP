@@ -17,7 +17,7 @@ class Pasta{
 	virtual ~Pasta(){
 	}
 
-	Pasta& operator=(const Pasta& rhs){
+	Pasta& operator=(const Pasta& rhs){ //item 11 respected
 		int *original;
 		original=&boilingTime;
 		boilingTime=rhs.boilingTime;
@@ -72,8 +72,8 @@ int main(){
 	Carbonara a3(10,3,100);
 	a3.cook();
 	Carbonara a4(a3);
-	a4.cook();
+	a4.cook(); // Item 12 respected.
 	Carbonara a5=a4;
-	a5.cook();
+	a5.cook(); // Item 12 respected.
 	return 0;
 }
