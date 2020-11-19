@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab7/main.cpp
+bits/stdc++.h
+-
+tr1/memory
+-
+
