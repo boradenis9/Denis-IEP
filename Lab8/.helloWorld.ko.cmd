@@ -1,0 +1,1 @@
+cmd_/home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab8/helloWorld.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab8/helloWorld.ko /home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab8/helloWorld.o /home/iep/Desktop/Denis_Repo_Iep/Denis-IEP/Lab8/helloWorld.mod.o;  true
